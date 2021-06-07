@@ -1,0 +1,4 @@
+ApplicationURL,https://opensource-demo.orangehrmlive.com/
+ChromeDriverPath,/home/heena/Documents/SeleniumScript/Driver/chromedriver
+ObjectRepositoriesLocation,/home/heena/Desktop/QKtraining/EclipseProject/qualitykioskstraining-master-TestCasesProject/TestCasesProject/OrangeHRMTestCases/ObjectRepositories
+DataFilesLocation,/home/heena/Desktop/QKtraining/EclipseProject/qualitykioskstraining-master-TestCasesProject/TestCasesProject/OrangeHRMTestCases/DataFiles
